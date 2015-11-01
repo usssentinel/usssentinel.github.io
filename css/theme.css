@@ -1,0 +1,56 @@
+/*
+	Color scheme: http://paletton.com/#uid=74A0u0kllllaFw0g0qFqFg0w0aF
+*/
+
+body {
+	color: #003C3E;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+
+h1 {
+	padding-top: 0;
+	margin-top: 0;
+	font-style: italic;
+	color: #210439;
+}
+
+table th {
+	padding-right: 10px;
+}
+
+#menu .container-fluid {
+	color: #9376AC;
+	background-color: #210439;
+}
+
+#menu .author {
+	font-weight: bold;
+}
+
+#menu .author-desc {
+	font-style: italic;
+	font-size: 80%;
+}
+
+.nav-pills>li>a {
+	color: #210439;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+	color: #210439;
+	background-color: #704C8F;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+	background-color: #9376AC;
+}
+
+footer {
+	border-top-color: #210439;
+	background-color: #9376AC;
+	text-align: center;
+	font-style: italic;
+	font-size: 80%;
+	line-height: 250%;
+}

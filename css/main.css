@@ -1,0 +1,15 @@
+.navbar-brand {
+	padding: 5px 10px;
+}
+
+.header-heading {
+	font-size: 16px;
+}
+
+footer {
+	width: 100%;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	border-top: 1px solid black;
+}
